@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Elucidater\source\repos\Infimum\Infimum\Source.cpp(21,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Elucidater\source\repos\Infimum\Infimum\Source.cpp(21,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  6 of 51 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Infimum.vcxproj -> C:\Users\Elucidater\source\repos\Infimum\Release\Infimum.exe
